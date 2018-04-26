@@ -601,7 +601,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 27aaab53-0754-4361-b71a-4daf6e89bc93
   projectName: GameFinal2018
